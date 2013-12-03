@@ -5,7 +5,7 @@
     <groupId>me.bianbian.labs</groupId>
     <artifactId>worldclock</artifactId>
     <packaging>pom</packaging>
-    <version>1.0-SNAPSHOT</version>
+    <version>0.1.0</version>
     <name>AppFuse Modular Application</name>
     <url>http://www.mycompany.com</url>
 
